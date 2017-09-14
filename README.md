@@ -13,4 +13,4 @@
 | He is Golden | He's Brown |
 | Likes Sausage | He's a bacon Doggy |
 
-![Ol yeller](https://resizing.flixster.com/9TQTqNpZqpddceBoJYQFDD9hPnU=/300x300/v1.bjsyMDU2MTE7ajsxNzQ2MjsxMjAwOzk2NjsxMjg3)
+![Ol yeller](https://vignette2.wikia.nocookie.net/disney/images/a/af/Spike_as_Old_Yeller.jpg/revision/latest?cb=20140101211153)
