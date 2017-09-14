@@ -7,7 +7,7 @@
 :dog:
 :gun:
 Ol Yeller | Benji
--------- | --------
-He dies | He lives
+------------ | ------------
+He Dies | He Lives
 He is Golden | He's Brown
-Likes Sausage | He's a bacon doggy
+Likes Sausage | He's a bacon Doggy
